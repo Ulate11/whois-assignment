@@ -1,0 +1,9 @@
+senderMail: the sender mail
+senderPassword: associated password for sender mail
+smtpPort: 587
+smtpServer: smtp.gmail.com
+whoisApiKey: whoisxmlapi key
+recipients:
+ - <example@gmail.com>
+ - <recipient2>
+ - <recipient3>

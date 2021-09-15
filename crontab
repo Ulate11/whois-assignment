@@ -1,0 +1,2 @@
+@daily python -u /app/whois.py >> /logfile
+@reboot python -u /app/whois.py >> /logfile
