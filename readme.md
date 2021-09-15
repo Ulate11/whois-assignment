@@ -6,7 +6,7 @@
 * crontab: to execute the script every day, and when the docker machine is started.
 * requirements.txt: python packages needed to run the script.
 * yesterday.pic: this file is created the first time the script is run. It stores the provided info from whoisxmlapi.
-* appSettings.yaml: script settings that shouldn't be published in public sities like mail sender credentials.
+* appSettings.yaml: script settings that shouldn't be published in public sities like github with the credentials like mail sender or api key.
 
 ## executing script
 
